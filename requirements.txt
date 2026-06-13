@@ -10,4 +10,5 @@ reportlab
 pytest-django
 pytest-cov
 dj_database_url
+psycopg2-binary
 # django-debug-toolbar  # dev only — uncomment for local development
